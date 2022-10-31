@@ -1,2 +1,2 @@
-this file is updated in master branch
+this file upfated in dev branch
 thi si skjbjk  fbjbi
